@@ -1,5 +1,5 @@
 
-import { Heading, VStack, Text, HStack, Circle, Flex, Input, Textarea, Button } from '@chakra-ui/react'
+import { VStack, Text, HStack, Circle, Flex, Input, Textarea, Button } from '@chakra-ui/react'
 import React from 'react'
 import { CiLocationOn } from "react-icons/ci";
 import { BsTelephone } from "react-icons/bs";

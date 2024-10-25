@@ -85,14 +85,14 @@ const About = () => {
               </HStack>
               <HStack wrap={"wrap"}>
                 <Text fontWeight={"bold"}>Profile:</Text>{" "}
-                <Text>Full Stack</Text>
+                <Text>Front-end Developer</Text>
               </HStack>
               <HStack wrap={"wrap"}>
                 <Text fontWeight={"bold"}>Email:</Text>{" "}
                 <Text>muneeburrehman1912@gmail.com</Text>
               </HStack>
               <HStack wrap={"wrap"}>
-                <Text fontWeight={"bold"}>Phone:</Text> <Text>593606936</Text>
+                <Text fontWeight={"bold"}>Phone:</Text> <Text>+92 3052051021</Text>
               </HStack>
             </VStack>
           </HStack>
@@ -105,21 +105,13 @@ const About = () => {
           >
           <VStack gap={"20px"} mt={"20px"} fontSize={"18px"}>
             <Text my={"10px"}>
-              Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.
-              Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.
-              Praesent sapien massa, convallis a pellentesque nec, egestas non
-              nisi. Nulla porttitor accumsan tincidunt.
+            I am a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. My journey into the world of front-end development has equipped me with the skills to create visually appealing and user-friendly websites. I thrive on transforming creative ideas into interactive digital experiences.
             </Text>
             <Text my={"10px"}>
-              Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-              Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum
-              ac diam sit amet quam vehicula elementum sed sit amet dui.
-              porttitor at sem.
+            With experience in popular frameworks and libraries like Bootstrap, Tailwind, and Chakra UI, I can efficiently build responsive and aesthetically pleasing interfaces. My approach combines a keen eye for design with a commitment to performance, ensuring that every project I undertake meets high standards of quality.
             </Text>
             <Text my={"10px"}>
-              Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut
-              lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt.
-              Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+            Currently, I'm focused on mastering React to enhance my ability to develop dynamic single-page applications. I believe in continuous learning and staying updated with the latest trends in web development, allowing me to deliver innovative solutions that meet client needs.
             </Text>
           </VStack>
         </VStack>
