@@ -10,17 +10,17 @@ const Contact = () => {
         {
         con:<CiLocationOn />,
         Head:'Address',
-        text:'123 Street, New York, USA'
+        text:'H:135-D Unit 10,Latifabad,Hyd,Pakistan'
         },
         {
         con:<BsTelephone />,
         Head:'Call Us',
-        text:'+1 5589 55488 55'
+        text:'+92 3052051021'
         },
         {
         con:<CiMail />,
         Head:'Email Us',
-        text:'info@example.com'
+        text:'muneeburrehman1912@gmail.com'
         }
         
           ]

@@ -1,6 +1,5 @@
-import { HStack, Heading, Text, VStack,Image } from '@chakra-ui/react'
+import { HStack, Text, VStack,Image } from '@chakra-ui/react'
 import React from 'react'
-// import { FiActivity } from "react-icons/fi";
 const ServiceCard = ({cons,head,text}) => {
   return (
     

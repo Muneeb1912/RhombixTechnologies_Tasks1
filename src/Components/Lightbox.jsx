@@ -2,8 +2,6 @@ import {
   Box,
   Button,
   Container,
-  Heading,
-  Icon,
   Image,
   Text,
 } from "@chakra-ui/react";

@@ -1,4 +1,4 @@
-import { AspectRatio, Box, HStack, Image, Text, VStack } from '@chakra-ui/react';
+import { AspectRatio, Box, HStack, Text} from '@chakra-ui/react';
 import React, { useEffect, useState} from 'react';
 import { useParams } from 'react-router-dom';
 import { LightBoxProvider } from '../LightBoxContext';

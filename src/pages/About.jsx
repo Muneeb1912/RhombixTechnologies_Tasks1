@@ -1,5 +1,4 @@
 import {
-  Flex,
   Heading,
   HStack,
   Image,
